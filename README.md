@@ -2,10 +2,10 @@
 
 created by: Wasim
 <br>
-A python code / script to list all present users in AWS IAM
+First python code / script to list all present users in AWS IAM
 <br>
 
-## Installion
+## How to Use
 <br>
 - Install "boto3" module before using the code
 <br>
