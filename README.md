@@ -5,10 +5,12 @@ created by: Wasim
 A python code / script to list all present users in AWS IAM
 <br>
 
-Installion
+## Installion
 <br>
-Install "boto3" module before using the code
+- Install "boto3" module before using the code
 <br>
-"pip3 install boto3"
+'''pyhon
+pip3 install boto3"
+'''
 <br>
 AWS CLI should be Configure
