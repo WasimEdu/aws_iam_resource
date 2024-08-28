@@ -13,5 +13,5 @@ A python code / script to list all present users in AWS IAM
 ```
 pip3 install boto3
 ```
-<br>
+
 AWS CLI should be Configure
