@@ -1,4 +1,4 @@
-# importing mordules
+# importing modules
 import boto3
 
 # opening aws management console

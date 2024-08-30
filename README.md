@@ -1,6 +1,6 @@
 # AWS iam user list
 
-created by: Wasim
+Created by: Wasim
 <br>
 First python code / script to list all present users in AWS IAM
 <br>
