@@ -7,9 +7,7 @@ We do not use Resource always because only for few servies as resouce is availab
 <br>
 
 ## Step 1: Install Python
-<br>
 - Install python form https://www.python.org/downloads/
-<br>
 
 ## Step 2: Install "boto3"
 ```
@@ -17,13 +15,11 @@ pip3 install boto3
 ```
 
 ## Step 3: Install AWS CLI
-<br>
 - Download and Install AWS CLI from https://aws.amazon.com/cli/
 
 ## Configure AWS CLI
-- Open Terminal 
-<br>
-```
+
+```sh
 aws configure
 ```
 and provide our Access Key and Security Key
