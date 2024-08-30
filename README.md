@@ -21,8 +21,8 @@ pip3 install boto3
 - Download and Install AWS CLI from https://aws.amazon.com/cli/
 
 ## Configure AWS CLI
-<br>
 - Open Terminal 
+<br>
 ```
 aws configure
 ```
